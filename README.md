@@ -6,3 +6,4 @@
 |2|[문자열 뒤집기](https://leetcode.com/problems/reverse-string/)|⭐ |6장_문자열 조작|[2-1.py](https://github.com/SEOJIN-Lab/Algorithm/blob/main/2.%20Python/2-1.py)<br>[2-2.py](https://github.com/SEOJIN-Lab/Algorithm/blob/main/2.%20Python/2-2.py)|
 |3|[로그파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)|⭐ |6장_문자열 조작|[3-1.py](https://github.com/SEOJIN-Lab/Algorithm/blob/main/2.%20Python/3-1.py)|
 |4|[가장 흔한 단어](https://leetcode.com/problems/most-common-word/)|⭐|6장_문자열 조작|[4-1.py]()|
+|5|[그룹 에너그램]()|⭐ ⭐ | 6장_문자열 조작|[5-1.py]()|
