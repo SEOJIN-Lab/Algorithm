@@ -7,3 +7,4 @@
 |3|[로그파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)|⭐ |6장_문자열 조작|[3-1.py](https://github.com/SEOJIN-Lab/Algorithm/blob/main/2.%20Python/3-1.py)|
 |4|[가장 흔한 단어](https://leetcode.com/problems/most-common-word/)|⭐|6장_문자열 조작|[4-1.py]()|
 |5|[그룹 에너그램]()|⭐ ⭐ | 6장_문자열 조작|[5-1.py]()|
+|6|[가장 긴 팰린드롬 부분 문자열]()|⭐ ⭐ |6장_문자열 조작|[6-1.py]()|
