@@ -3,6 +3,7 @@
 [코드업 기초 100제](https://codeup.kr/problemsetsol.php?psid=33)
 |문제 번호|문제 제목|유형|풀이|
 |:---:|---|---|---|
+|1|
 
 [이코테 2021 강의 몰아보기](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 
