@@ -3,7 +3,7 @@
 [코드업 기초 100제](https://codeup.kr/problemsetsol.php?psid=33)
 |문제 번호|문제 제목|유형|풀이|
 |:---:|---|---|---|
-|1|[출력하기01](https://codeup.kr/problem.php?id=600)|[기초-출력]|[6001.py](https://codeup.kr/showsource.php?id=23861427)|
+|1|[출력하기01](https://codeup.kr/problem.php?id=6001)|[기초-출력]|[6001.py](https://codeup.kr/showsource.php?id=23861427)|
 |2|[출력하기02](https://codeup.kr/problem.php?id=6002)|[기초-출력]|[6002.py](https://codeup.kr/showsource.php?id=23861448)|
 |3|[출력하기03](https://codeup.kr/problem.php?id=6003)|[기초-출력]|[6003.py](https://codeup.kr/showsource.php?id=23861472)|
 |4|[출력하기04](https://codeup.kr/problem.php?id=6004)|[기초-출력]|[6004.py](https://codeup.kr/showsource.php?id=23861484)|
