@@ -3,7 +3,16 @@
 [코드업 기초 100제](https://codeup.kr/problemsetsol.php?psid=33)
 |문제 번호|문제 제목|유형|풀이|
 |:---:|---|---|---|
-|1|
+|1|[출력하기01](https://codeup.kr/problem.php?id=600)|[기초-출력]|[6001.py](https://codeup.kr/showsource.php?id=23861427)|
+|2|[출력하기02](https://codeup.kr/problem.php?id=6002)|[기초-출력]|[6002.py](https://codeup.kr/showsource.php?id=23861448)|
+|3|[출력하기03](https://codeup.kr/problem.php?id=6003)|[기초-출력]|[6003.py](https://codeup.kr/showsource.php?id=23861472)|
+|4|[출력하기04](https://codeup.kr/problem.php?id=6004)|[기초-출력]|[6004.py](https://codeup.kr/showsource.php?id=23861484)|
+|5|[출력하기05](https://codeup.kr/problem.php?id=6005)|[기초-출력]|[6005.py](https://codeup.kr/showsource.php?id=23861507)|
+|6|[출력하기06](https://codeup.kr/problem.php?id=6006)|[기초-출력]|[6006.py](https://codeup.kr/showsource.php?id=23861568)|
+|7|[출력하기07](https://codeup.kr/problem.php?id=6007)|[기초-출력]|[6007.py](https://codeup.kr/showsource.php?id=23861766)|
+|8|[출력하기08](https://codeup.kr/problem.php?id=6008)|[기초-출력]|[6008.py](https://codeup.kr/showsource.php?id=23861856)|
+
+
 
 [이코테 2021 강의 몰아보기](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
 
