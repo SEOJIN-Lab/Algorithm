@@ -13,6 +13,7 @@
 |7|[출력하기07](https://codeup.kr/problem.php?id=6007)|[기초-출력]|[6007.py](https://codeup.kr/showsource.php?id=23861766)|
 |8|[출력하기08](https://codeup.kr/problem.php?id=6008)|[기초-출력]|[6008.py](https://codeup.kr/showsource.php?id=23861856)|
 |9|[문자 1개 입력받아 그대로 출력하기](https://codeup.kr/problem.php?id=6009)|[기초-입출력]|[6009.py](https://codeup.kr/showsource.php?id=23878196)|
+|10|
 
 <br>
 
