@@ -15,6 +15,7 @@
 |9|[문자 1개 입력받아 그대로 출력하기](https://codeup.kr/problem.php?id=6009)|[기초-입출력]|[6009.py](https://codeup.kr/showsource.php?id=23878196)|
 |10|
 |11|
+|12|
 
 <br>
 
