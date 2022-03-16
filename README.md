@@ -13,12 +13,12 @@
 |7|[출력하기07](https://codeup.kr/problem.php?id=6007)|[기초-출력]|[6007.py](https://codeup.kr/showsource.php?id=23861766)|
 |8|[출력하기08](https://codeup.kr/problem.php?id=6008)|[기초-출력]|[6008.py](https://codeup.kr/showsource.php?id=23861856)|
 |9|[문자 1개 입력받아 그대로 출력하기](https://codeup.kr/problem.php?id=6009)|[기초-입출력]|[6009.py](https://codeup.kr/showsource.php?id=23878196)|
-|10|
-|11|
-|12|
-|13|
-|14|
-|15|
+|10|[정수 1개 입력받아 int로 변환하여 출력하기](https://codeup.kr/problem.php?id=6010)|[기초-입출력]|[6010.py](https://codeup.kr/showsource.php?id=24133563)|
+|11|[실수 1개 입력받아 변환하여 출력하기](https://codeup.kr/problem.php?id=6011)|[기초-입출력]|[6011.py](https://codeup.kr/showsource.php?id=24133570)|
+|12|[정수 2개 입력받아 그대로 출력하기1](https://codeup.kr/problem.php?id=6012)|[기초-입출력]|[6012.py](https://codeup.kr/showsource.php?id=24133580)|
+|13|[문자 2개 입력받아 순서 바꿔 출력하기1](https://codeup.kr/problem.php?id=6013)|[기초-입출력]|[6013.py](https://codeup.kr/showsource.php?id=24133585)|
+|14|[실수 1개 입력받아 3번 출력하기](https://codeup.kr/problem.php?id=6014)|[기초-입출력]|[6014.py](https://codeup.kr/showsource.php?id=24133592)|
+|15|[정수 2개 입력받아 그대로 출력하기2](https://codeup.kr/problem.php?id=6015&rid=0)|[기초-입출력]|[6015.py](https://codeup.kr/showsource.php?id=24133611)|
 |16|
 |17|
 
