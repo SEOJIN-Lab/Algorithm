@@ -19,8 +19,13 @@
 |13|[문자 2개 입력받아 순서 바꿔 출력하기1](https://codeup.kr/problem.php?id=6013)|[기초-입출력]|[6013.py](https://codeup.kr/showsource.php?id=24133585)|
 |14|[실수 1개 입력받아 3번 출력하기](https://codeup.kr/problem.php?id=6014)|[기초-입출력]|[6014.py](https://codeup.kr/showsource.php?id=24133592)|
 |15|[정수 2개 입력받아 그대로 출력하기2](https://codeup.kr/problem.php?id=6015&rid=0)|[기초-입출력]|[6015.py](https://codeup.kr/showsource.php?id=24133611)|
-|16|
-|17|
+|16|[문자 2개 입력받아 순서 바꿔 출력하기2](https://codeup.kr/problem.php?id=6016)|[기초-입출력]|[6016.py](https://codeup.kr/showsource.php?id=24204092)|
+|17|[문장 1개 입력받아 3번 출력하기](https://codeup.kr/problem.php?id=6017)|[기초-입출력]|[6017.py](https://codeup.kr/showsource.php?id=24204540)|
+|18|[시간 입력받아 그대로 출력하기](https://codeup.kr/problem.php?id=6018)|[기초-입출력]|[6018.py](https://codeup.kr/showsource.php?id=24205027)|
+|19|[연월일 입력받아 순서 바꿔 출력하기](https://codeup.kr/problem.php?id=6019)|[기초-입출력]|[6019.py](https://codeup.kr/showsource.php?id=24205046)|
+|20|[주민번호 입력받아 형태 바꿔 출력하기](https://codeup.kr/problem.php?id=6020)|[기초-입출력]|[6020.py](https://codeup.kr/showsource.php?id=24205092)|
+|21|[단어 1개 입력받아 나누어 출력하기](https://codeup.kr/problem.php?id=6021)|[기초-입출력]|[6021.py](https://codeup.kr/problem.php?id=6021)|
+
 
 <br>
 
