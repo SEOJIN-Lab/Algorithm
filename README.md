@@ -25,6 +25,7 @@
 |19|[연월일 입력받아 순서 바꿔 출력하기](https://codeup.kr/problem.php?id=6019)|[기초-입출력]|[6019.py](https://codeup.kr/showsource.php?id=24205046)|
 |20|[주민번호 입력받아 형태 바꿔 출력하기](https://codeup.kr/problem.php?id=6020)|[기초-입출력]|[6020.py](https://codeup.kr/showsource.php?id=24205092)|
 |21|[단어 1개 입력받아 나누어 출력하기](https://codeup.kr/problem.php?id=6021)|[기초-입출력]|[6021.py](https://codeup.kr/problem.php?id=6021)|
+|22|
 
 
 <br>
