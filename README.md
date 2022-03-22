@@ -24,9 +24,17 @@
 |18|[시간 입력받아 그대로 출력하기](https://codeup.kr/problem.php?id=6018)|[기초-입출력]|[6018.py](https://codeup.kr/showsource.php?id=24205027)|
 |19|[연월일 입력받아 순서 바꿔 출력하기](https://codeup.kr/problem.php?id=6019)|[기초-입출력]|[6019.py](https://codeup.kr/showsource.php?id=24205046)|
 |20|[주민번호 입력받아 형태 바꿔 출력하기](https://codeup.kr/problem.php?id=6020)|[기초-입출력]|[6020.py](https://codeup.kr/showsource.php?id=24205092)|
-|21|[단어 1개 입력받아 나누어 출력하기](https://codeup.kr/problem.php?id=6021)|[기초-입출력]|[6021.py](https://codeup.kr/problem.php?id=6021)|
-|22|
-|23|
+|21|[단어 1개 입력받아 나누어 출력하기](https://codeup.kr/problem.php?id=6021)|[기초-입출력]|[6021.py](https://codeup.kr/showsource.php?id=24205549)|
+|22|[연월일 입력받아 나누어 출력하기](https://codeup.kr/problem.php?id=6022)|[기초-입출력]|[6022.py](https://codeup.kr/showsource.php?id=24270058)|
+|23|[시분초 입력받아 분만 출력하기](https://codeup.kr/problem.php?id=6023)|[기초-입출력]|[6023.py](https://codeup.kr/showsource.php?id=24273504)|
+|24|[단어 2개 입력받아 이어 붙이기](https://codeup.kr/problem.php?id=6024)|[기초-입출력]|[6024.py](https://codeup.kr/showsource.php?id=24274603)|
+|25|[정수 2개 입력받아 합 계산하기](https://codeup.kr/problem.php?id=6025)|[기초-값변환]|[6025.py](https://codeup.kr/showsource.php?id=24274683)|
+|26|[실수 2개 입력받아 합 계산하기](https://codeup.kr/problem.php?id=6026)|[기초-값변환]|[6026.py](https://codeup.kr/showsource.php?id=24274798)|
+|27|[10진 정수 입력받아 16진수로 출력하기1](https://codeup.kr/problem.php?id=6027)|[기초-출력변환]|[6027.py](https://codeup.kr/showsource.php?id=24275532)|
+|28|[10진 정수 입력받아 16진수로 출력하기2](https://codeup.kr/problem.php?id=6028)|[기초-출력변환]|[6028.py](https://codeup.kr/showsource.php?id=24275646)|
+|29|[16진 정수 입력받아 8진수로 출력하기](https://codeup.kr/problem.php?id=6029)|[기초-값변환]|[6029.py](https://codeup.kr/showsource.php?id=24275696)|
+|30|[영문자 1개 입력받아 10진수로 변환하기](https://codeup.kr/problem.php?id=6030)|[기초-값변환]|[6030.py](https://codeup.kr/showsource.php?id=24275764)|
+
 
 <br>
 
