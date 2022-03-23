@@ -34,7 +34,7 @@
 |28|[10진 정수 입력받아 16진수로 출력하기2](https://codeup.kr/problem.php?id=6028)|[기초-출력변환]|[6028.py](https://codeup.kr/showsource.php?id=24275646)|
 |29|[16진 정수 입력받아 8진수로 출력하기](https://codeup.kr/problem.php?id=6029)|[기초-값변환]|[6029.py](https://codeup.kr/showsource.php?id=24275696)|
 |30|[영문자 1개 입력받아 10진수로 변환하기](https://codeup.kr/problem.php?id=6030)|[기초-값변환]|[6030.py](https://codeup.kr/showsource.php?id=24275764)|
-
+|31|[정수 입력받아 유니코드 문자로 변환하기](https://codeup.kr/problem.php?id=6031)|[기초-값변환]|[6031.py](https://codeup.kr/showsource.php?id=24320633)|
 
 <br>
 
