@@ -37,6 +37,7 @@
 |31|[정수 입력받아 유니코드 문자로 변환하기](https://codeup.kr/problem.php?id=6031)|[기초-값변환]|[6031.py](https://codeup.kr/showsource.php?id=24320633)|
 |32|[정수 1개 입력받아 부호 바꾸기](https://codeup.kr/problem.php?id=6032)|[기초-산술연산]|[6032.py](https://codeup.kr/showsource.php?id=24355705)|
 |33|
+|34|
 
 <br>
 
