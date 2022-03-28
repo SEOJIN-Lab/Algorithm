@@ -38,6 +38,7 @@
 |32|[정수 1개 입력받아 부호 바꾸기](https://codeup.kr/problem.php?id=6032)|[기초-산술연산]|[6032.py](https://codeup.kr/showsource.php?id=24355705)|
 |33|
 |34|
+|35|
 
 <br>
 
